@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786895579379",
+    "firebase_url": "https://liveblood-5d5a8.firebaseio.com",
+    "project_id": "liveblood-5d5a8",
+    "storage_bucket": "liveblood-5d5a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786895579379:android:b9a4d4ac6f1af320baaf86",
+        "android_client_info": {
+          "package_name": "com.dwidar.liveblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786895579379-8p5n01rrcgan6ju8t6acb5hjlfg0d6hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzuhR4fbOtas0sKpTIDfWp6_tj32vNBR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786895579379-8p5n01rrcgan6ju8t6acb5hjlfg0d6hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Blood System</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_user_main">UserMainActivity</string>
+    <string name="tab_text_1">Donner</string>
+    <string name="tab_text_2">Patient</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Nv">
+        <item>Negative</item>
+        <item>Positive</item>
+    </string-array>
+
+    <string-array name="BloodTypes">
+        <item>O-</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+    </string-array>
+
+</resources>
